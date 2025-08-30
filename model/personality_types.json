@@ -1,0 +1,106 @@
+{
+  "Sweet Adventurer": {
+    "description": "You love desserts and sweet food adventures!",
+    "traits": [
+      "Sweet tooth",
+      "Adventurous eater",
+      "Creative"
+    ],
+    "favorite_foods": [
+      "Fusion desserts",
+      "Chocolates",
+      "Pastries"
+    ]
+  },
+  "Spice Warrior": {
+    "description": "You crave heat and bold flavors!",
+    "traits": [
+      "Spice lover",
+      "Bold",
+      "Fearless"
+    ],
+    "favorite_foods": [
+      "Hot curries",
+      "Spicy ramen",
+      "Chili dishes"
+    ]
+  },
+  "Comfort Seeker": {
+    "description": "You prefer familiar and cozy meals.",
+    "traits": [
+      "Homey",
+      "Simple",
+      "Nostalgic"
+    ],
+    "favorite_foods": [
+      "Mac and cheese",
+      "Dal chawal",
+      "Soup"
+    ]
+  },
+  "Health Guru": {
+    "description": "You eat for energy and health.",
+    "traits": [
+      "Fitness-focused",
+      "Balanced",
+      "Mindful"
+    ],
+    "favorite_foods": [
+      "Salads",
+      "Smoothie bowls",
+      "Plant-based meals"
+    ]
+  },
+  "Social Foodie": {
+    "description": "Food is your social connector.",
+    "traits": [
+      "Trendy",
+      "Friendly",
+      "Outgoing"
+    ],
+    "favorite_foods": [
+      "Brunch",
+      "Street food",
+      "Tapas"
+    ]
+  },
+  "Late Night Explorer": {
+    "description": "You discover food when the world sleeps.",
+    "traits": [
+      "Night owl",
+      "Creative",
+      "Experimental"
+    ],
+    "favorite_foods": [
+      "Burgers",
+      "Pizza",
+      "Midnight snacks"
+    ]
+  },
+  "Balanced Foodie": {
+    "description": "You enjoy a mix of everything.",
+    "traits": [
+      "Balanced",
+      "Curious",
+      "Moderate"
+    ],
+    "favorite_foods": [
+      "Variety",
+      "Balanced meals",
+      "Seasonal dishes"
+    ]
+  },
+  "Texture Lover": {
+    "description": "For you, food is about mouthfeel!",
+    "traits": [
+      "Crunchy fan",
+      "Unique",
+      "Sensory eater"
+    ],
+    "favorite_foods": [
+      "Crispy snacks",
+      "Layered desserts",
+      "Chewy foods"
+    ]
+  }
+}

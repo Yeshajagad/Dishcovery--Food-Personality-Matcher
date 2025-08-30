@@ -1,0 +1,22 @@
+{
+  "id_to_personality": {
+    "0": "Balanced Foodie",
+    "1": "Comfort Seeker",
+    "2": "Health Guru",
+    "3": "Late Night Explorer",
+    "4": "Social Foodie",
+    "5": "Spice Warrior",
+    "6": "Sweet Adventurer",
+    "7": "Texture Lover"
+  },
+  "personality_to_id": {
+    "Balanced Foodie": 0,
+    "Comfort Seeker": 1,
+    "Health Guru": 2,
+    "Late Night Explorer": 3,
+    "Social Foodie": 4,
+    "Spice Warrior": 5,
+    "Sweet Adventurer": 6,
+    "Texture Lover": 7
+  }
+}
